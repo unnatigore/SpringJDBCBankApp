@@ -1,0 +1,84 @@
+2019-39-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 09:39:22 IST 2019]; root of context hierarchy
+2019-39-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-43-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 09:43:10 IST 2019]; root of context hierarchy
+2019-43-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-43-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 09:43:27 IST 2019]; root of context hierarchy
+2019-43-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-48-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 09:48:15 IST 2019]; root of context hierarchy
+2019-48-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-51-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 09:51:39 IST 2019]; root of context hierarchy
+2019-51-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-52-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@b7f23d9: startup date [Tue Jan 08 09:52:06 IST 2019]; root of context hierarchy
+2019-52-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-53-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 09:53:19 IST 2019]; root of context hierarchy
+2019-53-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-11-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 10:11:15 IST 2019]; root of context hierarchy
+2019-11-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-42-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 10:42:37 IST 2019]; root of context hierarchy
+2019-42-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-25-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 17:25:21 IST 2019]; root of context hierarchy
+2019-25-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-25-08-main--WARN -org.springframework.context.support.ClassPathXmlApplicationContext:Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'savingsAccountSJServiceImpl' defined in file [C:\maven_test\springjdbcBankApp\target\classes\com\cg\app\account\service\SavingsAccountSJServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.cg.app.account.service.SavingsAccountSJServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The type SavingsAccountSJServiceImpl must implement the inherited abstract method SavingsAccountService.updateAccount(int, String)
+	The type SavingsAccountSJServiceImpl must implement the inherited abstract method SavingsAccountService.updateAccount(int, int, String)
+	The annotation @Override is disallowed for this location
+	Syntax error, insert ";" to complete FieldDeclaration
+	Return type for the method is missing
+
+2019-29-08-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Tue Jan 08 17:29:12 IST 2019]; root of context hierarchy
+2019-29-08-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-29-08-main--WARN -org.springframework.context.support.ClassPathXmlApplicationContext:Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'savingsAccountSJServiceImpl' defined in file [C:\maven_test\springjdbcBankApp\target\classes\com\cg\app\account\service\SavingsAccountSJServiceImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.cg.app.account.service.SavingsAccountSJServiceImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The type SavingsAccountSJServiceImpl must implement the inherited abstract method SavingsAccountService.updateAccount(int, String)
+	The type SavingsAccountSJServiceImpl must implement the inherited abstract method SavingsAccountService.updateAccount(int, int, String)
+	The annotation @Override is disallowed for this location
+	Syntax error, insert ";" to complete FieldDeclaration
+	Return type for the method is missing
+
+2019-56-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 08:56:22 IST 2019]; root of context hierarchy
+2019-56-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-56-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 08:56:44 IST 2019]; root of context hierarchy
+2019-56-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-58-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 08:58:07 IST 2019]; root of context hierarchy
+2019-58-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-00-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:00:29 IST 2019]; root of context hierarchy
+2019-00-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-03-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:03:23 IST 2019]; root of context hierarchy
+2019-03-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-04-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:04:03 IST 2019]; root of context hierarchy
+2019-04-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-04-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:04:13 IST 2019]; root of context hierarchy
+2019-04-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-12-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:12:23 IST 2019]; root of context hierarchy
+2019-12-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-13-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:13:26 IST 2019]; root of context hierarchy
+2019-13-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-18-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:18:53 IST 2019]; root of context hierarchy
+2019-18-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-20-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2a098129: startup date [Wed Jan 09 09:20:53 IST 2019]; root of context hierarchy
+2019-20-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-39-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 09:39:02 IST 2019]; root of context hierarchy
+2019-39-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-43-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 09:43:24 IST 2019]; root of context hierarchy
+2019-43-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-44-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 09:44:47 IST 2019]; root of context hierarchy
+2019-44-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-46-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 09:46:12 IST 2019]; root of context hierarchy
+2019-46-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-50-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 09:50:53 IST 2019]; root of context hierarchy
+2019-50-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-16-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 10:16:19 IST 2019]; root of context hierarchy
+2019-16-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-21-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 10:21:56 IST 2019]; root of context hierarchy
+2019-21-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-49-09-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Wed Jan 09 12:49:51 IST 2019]; root of context hierarchy
+2019-49-09-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-54-10-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Thu Jan 10 08:54:05 IST 2019]; root of context hierarchy
+2019-54-10-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-55-10-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Thu Jan 10 08:55:39 IST 2019]; root of context hierarchy
+2019-55-10-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-58-10-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Thu Jan 10 08:58:03 IST 2019]; root of context hierarchy
+2019-58-10-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-06-10-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Thu Jan 10 09:06:05 IST 2019]; root of context hierarchy
+2019-06-10-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
+2019-27-10-main--INFO -org.springframework.context.support.ClassPathXmlApplicationContext:Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@12f40c25: startup date [Thu Jan 10 09:27:18 IST 2019]; root of context hierarchy
+2019-27-10-main--INFO -org.springframework.beans.factory.xml.XmlBeanDefinitionReader:Loading XML bean definitions from class path resource [context.xml]
